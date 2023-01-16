@@ -1,5 +1,5 @@
 # HTML-CSS-Document-Templete
-This is the HTML &amp; CSS Document Templete of Sabah Parks Formal Letter
+This is the HTML &amp; CSS Document Templete of Sabah Parks Formal Letter (One of the assignments during my Internship)
 
 <!DOCTYPE html>
 <html lang="en">
