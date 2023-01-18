@@ -227,7 +227,7 @@ h4 {
 
   <div class="div1">(Sila nyatakan rujukan pejabat ini apabila menjawab surat ini)</div>
 
- <p class="alignleft"><i>Ruj. Kami</i>: TTS/IP/100-6/2 Jld. 13</p>
+ <p class="alignleft"><i>Ruj. Kami</i>: TTS/IP/100-9/8 Jld. 19</p>
  
  <p class="alignright">23 Februari 2021</p>
  </div>
@@ -247,11 +247,11 @@ h4 {
   <div style="clear: both;"></div>
   <p class="div5">Y. Bhg. Pengarah,</p>
   <h5>SOKONGAN UNTUK MENJALANKAN KAJIAN PENYELIDIKAN DI KAWASAN<br>
-  TAMAN-TAMAN SABAH- SAUDARI JESSEY CHAI YEE WEI</h5>
+  TAMAN-TAMAN SABAH- SAUDARI JESSEY TAN</h5>
   <p style="font-family: Arial; margin-left: 30px">Dengan segala hormatnya, saya merujuk kepada perkara di atas.</p>
   <div class="div14">02.</div>
   <div class="div15">Pihak pengurusan Taman-Taman Sabah tiada halangan untuk membenarkan penyelidik
-  yang bernama <b>Jessey Chai Yee Wei</b> dari <b>Institut Biologi Tropika dan Pemuliharaan,</b>
+  yang bernama <b>Jessey Tan</b> dari <b>Institut Biologi Tropika dan Pemuliharaan,</b>
   <b>Universiti Malaysia Sabah (UMS)</b> untuk menjalankan projek penyelidikan bertajuk,
   <b>"Diversity and biogeography of slugs in Sabah"</b> yang melibatkan kawasan sekitar Taman-
   Taman Sabah seperti berikut;</p>
@@ -271,7 +271,7 @@ h4 {
   <table style="width:85%; margin-left: 25px; margin-top: 10px; font-family: Arial">
       <tr style="height:25px">
         <td style="text-indent: 10px">Nama Pegawai</td>
-        <td style="text-indent: 10px">: En.Geofarry Gunsalam</td> 
+        <td style="text-indent: 10px">: En.Geofarry Freddy</td> 
       </tr>
       <tr style="height: 40px">
         <td style="text-indent: 10px">Bahagian</td>
@@ -299,7 +299,7 @@ h4 {
     Muka Surat 2/2</div>
 
     <h2>SOKONGAN UNTUK MENJALANKAN KAJIAN PENYELIDIKAN DI KAWASAN<br>
-    TAMAN-TAMAN SABAH- SAUDARI JESSEY CHAI YEE WEI</h2>
+    TAMAN-TAMAN SABAH- SAUDARI JESSEY TAN</h2>
     <hr size="5" width="595" style="margin-left: 55px; margin-bottom: 20px">
 
     <div class="div9">04.</div>
@@ -316,7 +316,7 @@ h4 {
 
     <p4>Saya yang menjalankan amanah,</p4>
 
-    <div class="div10">(NASRULHAKIM BIN MAIDIN)</div>
+    <div class="div10">(NASRULHAKIM BIN RADIN)</div>
     <div class="div13">Ketua Penolong Pengarah (Penyelidikan & Pendidikan)<br>
     <i>b.p.</i> Pengarah</div>
 
